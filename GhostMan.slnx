@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GhostMan.Android/GhostMan.Android.csproj" />
+    <Project Path="src/GhostMan.Core/GhostMan.Core.csproj" />
+    <Project Path="src/GhostMan.DesktopGL/GhostMan.DesktopGL.csproj" />
+    <Project Path="src/GhostMan.iOS/GhostMan.iOS.csproj" />
+    <Project Path="src/GhostMan.WindowsDX/GhostMan.WindowsDX.csproj" />
+  </Folder>
+</Solution>
